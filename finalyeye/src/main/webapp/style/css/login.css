@@ -1,0 +1,11 @@
+.login-vimCode{
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: -2px;
+    cursor: pointer;
+}
+.login-btn{
+    position: absolute;
+    left:-90px;
+}
